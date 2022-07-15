@@ -1,3 +1,9 @@
+<main>
+  <h1>HELLO WORLD</h1>
+</main>
+
+
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning with Basil</h1>
