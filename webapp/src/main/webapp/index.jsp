@@ -1,19 +1,19 @@
 <main>
   <h1>HELLO WORLD</h1>
-  We're no strangers to love  
-  You know the rules and so do I (do I)
-  A full commitment's what I'm thinking of
-  You wouldn't get this from any other guy
-  
-  I just wanna tell you how I'm feeling
-  Gotta make you understand
-  
-  Never gonna give you up
-  Never gonna let you down
-  Never gonna run around and desert you
-  Never gonna make you cry
-  Never gonna say goodbye
-  Never gonna tell a lie and hurt you
+  <p>We're no strangers to love</p>
+  <p>You know the rules and so do I (do I)</p>
+  <p>A full commitment's what I'm thinking of</p>
+  <p>You wouldn't get this from any other guy</p>
+  <br>
+  <p>I just wanna tell you how I'm feeling</p>
+  <p>Gotta make you understand</p>
+  <br>
+  <p>Never gonna give you up</p>
+  <p>Never gonna let you down</p>
+  <p>Never gonna run around and desert you</p>
+  <p>Never gonna make you cry</p>
+  <p>Never gonna say goodbye</p>
+  <p>Never gonna tell a lie and hurt you</p>
 </main>
 
 
